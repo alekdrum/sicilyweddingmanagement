@@ -89,7 +89,7 @@ img{ max-width:100%; display:block; }
 .hero-bg{
   position:absolute; inset:0;
   background:
-    linear-gradient(90deg, rgba(7,8,11,.90) 0%, rgba(7,8,11,.72) 45%, rgba(7,8,11,.78) 100%),
+    linear-gradient(90deg, rgba(7,8,11,.74) 0%, rgba(7,8,11,.52) 45%, rgba(7,8,11,.58) 100%),
     url("assets/img/hero.jpg") center/cover no-repeat;
   filter: saturate(1.05);
 }
